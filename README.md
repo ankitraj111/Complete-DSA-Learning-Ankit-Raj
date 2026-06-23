@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
