@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1189-maximum-number-of-balloons) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
