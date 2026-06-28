@@ -25,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
 | [1200-minimum-absolute-difference](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1200-minimum-absolute-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
 | [1200-minimum-absolute-difference](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1200-minimum-absolute-difference) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
