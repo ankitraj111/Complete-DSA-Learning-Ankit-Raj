@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
