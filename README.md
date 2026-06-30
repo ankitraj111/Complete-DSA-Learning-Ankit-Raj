@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ankitraj111/Complete-DSA-Learning-Ankit-Raj/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
